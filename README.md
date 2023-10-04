@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Indra Sah Noeldy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and CSS Advanced
 - 💞️ I’m looking to collaborate on Website Project
 
 <!---
