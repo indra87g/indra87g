@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Indra Sah Noeldy
 - 👀 I’m interested in Web Development and Backend Development
-- 🌱 I’m currently learning Javascript, Golang, and Python
+- 🌱 I’m currently learning Javascript, Golang, React, Nodejs, PHP and Laravel
 - 💞️ I’m looking to collaborate on Every project using Javascript, Golang, and Python
 
 <!---
