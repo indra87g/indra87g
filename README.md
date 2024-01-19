@@ -7,6 +7,10 @@
 </div>
 <hr>
 
+> Have you seen my repository ? My repository is mostly a fork of someone else's project...
+>> Why did it happen ? Because... I LOVE CONTRIBUTING!!!
+>>> As Crazy Dave says: "Because... I'M CRAZY!!!" - However, I replaced the word "Crazy" with "Contribute"
+
 <!---
 indra87g/indra87g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
