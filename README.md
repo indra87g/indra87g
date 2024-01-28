@@ -1,8 +1,5 @@
 <h1 align="center" >Hi, I'm Indra Sah Noeldy !</h1>
 
-![20240122_142043](https://github.com/indra87g/indra87g/assets/146718520/ccd9ac91-2413-4fa5-bca0-c8081a1a3814)
-
-
 <h3 align="center">I Am :</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Developer-8A2BE2">
