@@ -5,12 +5,13 @@
 <img src="https://img.shields.io/badge/Developer-8A2BE2">
 <img src="https://img.shields.io/badge/Youtuber-red">
 <img src="https://img.shields.io/badge/Blogger-orange">
-</div>
+</div><br>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript">
 <hr>
 
-> Have you seen my repository ? My repository is mostly a fork of someone else's project...
->> Why did it happen ? Because... I LOVE CONTRIBUTING!!!
->>> As Crazy Dave says: "Because... I'M CRAZY!!!" - However, I replaced the word "Crazy" with "Contribute"
+I am Indra Sah Noeldy, a 14 year old developer from Indonesia. I love helping anyone's projects. Check out my portfolio for more info
 
 <!---
 indra87g/indra87g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
