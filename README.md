@@ -1,26 +1,28 @@
-<h1 align="center" >Hi, I'm Indra Sah Noeldy 👋</h1>
+# Hi There👋
 
-<h3 align="center">Welcome to my Github Profile</h3>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=indra87g&style=flat-square&color=blue" alt=""/>
-</div><br>
+![carbon (1)](https://github.com/indra87g/indra87g/assets/146718520/182f9ff5-9406-4b58-8612-93403216ce38)
 
-I am Indra Sah Noeldy, a 14 year old developer from Indonesia. I love helping anyone's projects. Check out my portfolio for more info
+## Github Stats
 
-----
-![h](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indra87g&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=indra87g&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indra87g&theme=ayu_mirage)
-----
 
-## My Weapon (Ak-47 in FPS games)
-- ```Laptop``` ASUS E402YA
-  - ```RAM``` 4 GB
-  - ```Processor``` AMD Radeon R2
-  - ```Storage``` HDD 1TB
+## I Coding With
 
-- ```Operating System``` Windows 10 Home + MSYS2
-  - ```Shell``` Windows Terminal, Bash, Oh My Zsh, Mintty
-  - ```Browser``` Google Chrome
-  - ```Code Editor``` VSCode, GNU Nano
-  - ```Game``` GTA San Andreas, Counter Strike, Shattered PD, and more
+<table>
+<tr>
+  <th>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="64" height="64" />
+  </th>
+</tr>
+</table>   
+
+## Etc
+* See my portfolio [here](https://indra87g.github.io)
+* Read my blog [here](https://blog-eta-silk-67.vercel.app)
+  * 
