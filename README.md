@@ -37,6 +37,6 @@ Y8P               888                 d88P  Y88b       d88P
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indra87g&theme=ayu_mirage)
 
 ## Etc
-* See my portfolio [here](https://indra87g.github.io)
-* Read my blog [here](https://blog-eta-silk-67.vercel.app)
-  * 
+* See my portfolio & blog [here](https://indra87g.vercel.app)
+* Email me in [noeldycreator@gmail.com](mailto:noeldycreator@gmailcom)
+* Chat with me from whatsapp/telegram [+6289630426815](https://wa.me/6289630426815)
