@@ -1,7 +1,7 @@
 # Hi There👋
 
 <!--![carbon (1)](https://github.com/indra87g/indra87g/assets/146718520/182f9ff5-9406-4b58-8612-93403216ce38)-->
-```php                                                                      
+```erl                                                        
 d8b               888                  .d8888b.  8888888888         
 Y8P               888                 d88P  Y88b       d88P         
                   888                 Y88b. d88P      d88P          
