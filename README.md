@@ -15,25 +15,26 @@ Y8P               888                 d88P  Y88b       d88P
                                                             "Y88P"
 ```
 
+## Tech Stack
+### Front-End
+[![My Skills](https://skillicons.dev/icons?i=html,figma,vue,bootstrap,tailwind&theme=dark&perline=4)](https://skillicons.dev)
+
+### Back-End
+[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,go,java,expressjs,lua,fastlify&theme=dark&perline=4)](https://skillicons.dev)
+
+### Full-Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,nextjs,astro&theme=dark&perline=4)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,prisma,redis&theme=dark&perline=4)](https://skillicons.dev)
+
+### Dev-Ops
+[![My Skills](https://skillicons.dev/icons?i=linux,vercel,rabbitmq,powershell,git,githubactions,gitlab,gulp&theme=dark&perline=4)](https://skillicons.dev)
+
 ## Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=indra87g&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indra87g&theme=ayu_mirage)
-
-## I Coding With
-
-<table>
-<tr>
-  <th>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="64" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="64" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="64" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="64" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="64" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="64" height="64" />
-  </th>
-</tr>
-</table>   
 
 ## Etc
 * See my portfolio [here](https://indra87g.github.io)
