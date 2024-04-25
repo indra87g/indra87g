@@ -22,7 +22,7 @@ My name is Indra Sah Noeldy. I am a developer who is still learning backend so I
 [![My Skills](https://skillicons.dev/icons?i=html,figma,vue,bootstrap,tailwind&theme=dark&perline=4)](https://skillicons.dev)
 
 ### Back-End
-[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,go,java,expressjs,lua,fastlify&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,go,java,expressjs,laravel,lua,fastlify&theme=dark&perline=4)](https://skillicons.dev)
 
 ### Full-Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,nextjs,astro&theme=dark&perline=4)](https://skillicons.dev)
