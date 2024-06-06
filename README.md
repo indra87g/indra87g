@@ -20,8 +20,6 @@
 
 - 🔭 I’m currently working on My portfolio, Localpride, Fetchy, etc
 
-
-
 - 🌱 I’m currently learning Full-Stack Development, Artificial Intelegent, Cryptocurrency, Economy 
 
 - 👯 I’m looking to collaborate on FLOSS Project 
@@ -31,19 +29,30 @@
 <h2>Skills</h2>
 
 ### Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,figma,vue,bootstrap,tailwind&theme=dark&perline=4)](https://skillicons.dev)
+![image](https://github.com/indra87g/indra87g/assets/146718520/2ea26ddc-054d-4a13-a47a-a91abbdb82ba)
+![image](https://github.com/indra87g/indra87g/assets/146718520/dd75cea3-4fe0-458d-8277-173ffc4ed0e7)
+![image](https://github.com/indra87g/indra87g/assets/146718520/b3ae365e-429b-425d-b447-58b087a05ad6)
+![image](https://github.com/indra87g/indra87g/assets/146718520/d3816cba-28e3-46fb-98d2-935f6fffd40d)
+![image](https://github.com/indra87g/indra87g/assets/146718520/9348d0e5-5eb4-4dc7-9014-6f64b0a083e5)
+![image](https://github.com/indra87g/indra87g/assets/146718520/188fb883-1241-476b-b72d-13db39383f76)
+![image](https://github.com/indra87g/indra87g/assets/146718520/6ca796be-87bd-4cad-b70e-4e480e5b54da)
 
 ### Back-End
-[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,go,java,expressjs,laravel,lua,fastlify&theme=dark&perline=4)](https://skillicons.dev)
+![image](https://github.com/indra87g/indra87g/assets/146718520/b059c7ee-6c85-4cfc-95b3-3b867f469f03)
+![image](https://github.com/indra87g/indra87g/assets/146718520/0bccbf1f-4ab8-467a-aed7-82634a866ede)
+![image](https://github.com/indra87g/indra87g/assets/146718520/401e51e7-c269-4b29-913d-f333cc201902)
+![image](https://github.com/indra87g/indra87g/assets/146718520/a95085ce-d55f-4745-ad5a-c17394af1ef2)
+![image](https://github.com/indra87g/indra87g/assets/146718520/b7a21a68-77ad-4401-8526-394a3b64c8de)
+![image](https://github.com/indra87g/indra87g/assets/146718520/123ced0c-be18-4c32-b472-89761c4bc1b9)
+![image](https://github.com/indra87g/indra87g/assets/146718520/4500f080-3934-4414-8729-5b6d9c1edcbd)
+![image](https://github.com/indra87g/indra87g/assets/146718520/4ce00470-44d6-4a52-a8d7-2b6eef2cf1fc)
+![image](https://github.com/indra87g/indra87g/assets/146718520/bf51f99a-97d6-4486-8214-f51c6efea06b)
 
-### Full-Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,bun,nextjs,astro&theme=dark&perline=4)](https://skillicons.dev)
+### Fullstack
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongo,prisma,redis&theme=dark&perline=4)](https://skillicons.dev)
 
 ### Dev-Ops
-[![My Skills](https://skillicons.dev/icons?i=linux,vercel,rabbitmq,powershell,git,githubactions,gitlab,gulp&theme=dark&perline=4)](https://skillicons.dev)
 
 <h2> Connect with me</h2>
 <a href = 'https://www.twitter.com/https://x.com/indra87g'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
