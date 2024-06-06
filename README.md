@@ -11,8 +11,7 @@
 ![indra87g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indra87g&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 </p>
-<div size='20px'> Hi! My name is Indra Sah Noeldy Girsang. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<div size='20px'> Hi! My name is Indra Sah Noeldy Girsang. Thank You for taking the time to view my GitHub Profile :smile: <br> Meet my alter ego (actually, just my irreversible github account...): https://github.com/leadvtrf </div>
 
 <h2> About Me</h2>
 
