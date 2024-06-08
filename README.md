@@ -3,10 +3,10 @@
 <a href="https://app.daily.dev/indra87g"><img src="https://api.daily.dev/devcards/v2/z5Xhy6pwE3QM8lrixFCQ4.png?r=zak&type=wide" width="652" alt="Indra Sah Noeldy's Dev Card"/></a>
 </div>
 
-<h1> Hello, < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello, Developers! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![Visitor Count](https://profile-counter.glitch.me/indra87g/count.svg)<br>
+![compare](https://github.com/indra87g/indra87g/assets/146718520/d29bc2bc-c998-4e5d-b028-155ae47218b6)
 ![indra87g's Stats](https://github-readme-stats.vercel.app/api?username=indra87g&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ![indra87g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indra87g&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
@@ -14,9 +14,6 @@
 <div size='20px'> Hi! My name is Indra Sah Noeldy Girsang. Thank You for taking the time to view my GitHub Profile :smile: <br> Meet my alter ego (actually, just my irreversible github account...): https://github.com/leadvtrf </div>
 
 <h2> About Me</h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
 
 - 🔭 I’m currently working on My portfolio, Localpride, Fetchy, etc
 
