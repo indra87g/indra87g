@@ -1,19 +1,8 @@
-
-<div align="center">
 <a href="https://app.daily.dev/indra87g"><img src="https://api.daily.dev/devcards/v2/z5Xhy6pwE3QM8lrixFCQ4.png?r=zak&type=wide" width="652" alt="Indra Sah Noeldy's Dev Card"/></a>
-</div>
 
-<h1> Hello, Developers! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![compare](https://github.com/indra87g/indra87g/assets/146718520/d29bc2bc-c998-4e5d-b028-155ae47218b6)
-![indra87g's Stats](https://github-readme-stats.vercel.app/api?username=indra87g&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-![indra87g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indra87g&theme=monokai&show_icons=true&hide_border=false&layout=compact)
-
-</p>
-<div size='20px'> Hi! My name is Indra Sah Noeldy Girsang. Thank You for taking the time to view my GitHub Profile :smile: <br> Meet my alter ego (actually, just my irreversible github account...): https://github.com/leadvtrf </div>
-
-<h2> About Me</h2>
+# Hello, Developers! 👋
+## ℹ About Me
+Hi! My name is Indra Sah Noeldy Girsang. Thank You for taking the time to view my GitHub Profile :smile: <br> Meet my alter ego (actually, just my irreversible github account...): https://github.com/leadvtrf
 
 - 🔭 I’m currently working on My portfolio, Localpride, Fetchy, etc
 
@@ -23,7 +12,24 @@
 
 - 💬 Talk to me about FLOSS, Linux, IT, PHP, Python, AI/ML, Windows, Android 
 
-<h2>Skills</h2>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/indra87g) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23435148) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@twinightwheel50) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/indra87g) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@indra87g) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/indra87g)
+
+## 📱 Contact
+- Whatsapp/Phone: +62 89530428615
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=indra87g&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=indra87g&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indra87g&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=indra87g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=indra87g&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## Skills
 
 ### Front-End
 ![image](https://github.com/indra87g/indra87g/assets/146718520/2ea26ddc-054d-4a13-a47a-a91abbdb82ba)
@@ -51,21 +57,5 @@
 
 ### Dev-Ops
 
-<h2> Connect with me</h2>
-<a href = 'https://www.twitter.com/https://x.com/indra87g'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://indra87g.vercel.app'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/indra87g'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-<br>
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-![Metrics](https://metrics.lecoq.io/indra87g?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
