@@ -33,7 +33,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           config_octicon: yes
-          config_presets: @lunar-red
           config_timezone: Asia/Jakarta
           config_twemoji: yes
           plugin_achievements: yes
