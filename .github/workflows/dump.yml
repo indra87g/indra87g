@@ -37,4 +37,3 @@ jobs:
         git push
       env:
         PAS: ${{ secrets.PAS }}
-=
