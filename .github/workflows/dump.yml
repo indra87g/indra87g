@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 * * * *' # Menjadwalkan tindakan ini setiap jam pada menit ke-0
   workflow_dispatch: # Memungkinkan tindakan ini dijalankan secara manual dari GitHub UI
+  
+permissions:
+  contents: write
 
 jobs:
   collect-and-commit:
@@ -33,4 +36,5 @@ jobs:
         git commit -m "Update profile_data.txt with latest GitHub profile data"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.PAS }}
+        PAS: ${{ secrets.PAS }}
+=
