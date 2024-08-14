@@ -1,4 +1,4 @@
-name: Dumps GitHub Profile Data
+name: Dump and Commit GitHub Profile Data
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Memungkinkan tindakan ini dijalankan secara manual dari GitHub UI
 
 jobs:
-  collect-profile-data:
+  collect-and-commit:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,8 +22,15 @@ jobs:
         API_URL="https://api.github.com/users/${USERNAME}"
         curl -s $API_URL | jq -r '"Username: \(.login)\nName: \(.name)\nBio: \(.bio)\nLocation: \(.location)"' > profile_data.txt
 
-    - name: Upload profile data
-      uses: actions/upload-artifact@v3
-      with:
-        name: profile-data
-        path: profile_data.txt
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+
+    - name: Commit and push profile_data.txt
+      run: |
+        git add profile_data.txt
+        git commit -m "Update profile_data.txt with latest GitHub profile data"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.PAS }}
