@@ -21,10 +21,18 @@ jobs:
 
     - name: Fetch GitHub profile data
       run: |
-        USERNAME="indra87g"
+        USERNAME="your-github-username"
         API_URL="https://api.github.com/users/${USERNAME}"
-        curl -s $API_URL | jq -r '"Username: \(.login)\nName: \(.name)\nBio: \(.bio)\nLocation: \(.location)"' > profile_data.txt
 
+        # Fetch general profile data
+        PROFILE_DATA=$(curl -s $API_URL | jq -r '"Username: \(.login)\nName: \(.name)\nBio: \(.bio)\nLocation: \(.location)\nFollowers: \(.followers)\nFollowing: \(.following)\nPublic Repos: \(.public_repos)"')
+
+        # Fetch the number of stars for all repos and sum them up
+        STARS=$(curl -s "https://api.github.com/users/${USERNAME}/repos?per_page=100" | jq -r 'map(.stargazers_count) | add')
+
+        # Combine all the data
+        echo "$PROFILE_DATA\nStargazers: $STARS" > profile_data.txt
+        
     - name: Configure Git
       run: |
         git config user.name "github-actions"
