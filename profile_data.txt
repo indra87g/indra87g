@@ -1,4 +1,7 @@
-Username: indra87g
-Name: Indra Sah Noeldy
-Bio: Learner and programmer from Indonesia. This year is 15 years old. Python and PHP are my favorite programming languange. 
-Location: Indonesia
+Username: your-github-username
+Name: null
+Bio: null
+Location: null
+Followers: 9
+Following: 0
+Public Repos: 0\nStargazers: null
