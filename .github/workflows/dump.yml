@@ -1,0 +1,29 @@
+name: Dumps GitHub Profile Data
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Menjadwalkan tindakan ini setiap jam pada menit ke-0
+  workflow_dispatch: # Memungkinkan tindakan ini dijalankan secara manual dari GitHub UI
+
+jobs:
+  collect-profile-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up jq
+      run: sudo apt-get install jq
+
+    - name: Fetch GitHub profile data
+      run: |
+        USERNAME="indra87g"
+        API_URL="https://api.github.com/users/${USERNAME}"
+        curl -s $API_URL | jq -r '"Username: \(.login)\nName: \(.name)\nBio: \(.bio)\nLocation: \(.location)"' > profile_data.txt
+
+    - name: Upload profile data
+      uses: actions/upload-artifact@v3
+      with:
+        name: profile-data
+        path: profile_data.txt
