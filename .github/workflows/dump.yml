@@ -21,7 +21,7 @@ jobs:
 
     - name: Fetch GitHub profile data
       run: |
-        USERNAME="your-github-username"
+        USERNAME="indra87g"
         API_URL="https://api.github.com/users/${USERNAME}"
 
         # Fetch general profile data
