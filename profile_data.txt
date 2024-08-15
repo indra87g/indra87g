@@ -4,4 +4,4 @@ Bio: Learner and programmer from Indonesia. This year is 15 years old. Python an
 Location: Indonesia
 Followers: 21
 Following: 143
-Public Repos: 67\nStargazers: 18
+Public Repos: 68\nStargazers: 18
