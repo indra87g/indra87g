@@ -1,13 +1,15 @@
 # Hello Everyone👋
 
-I am learner and programmer from Indonesia. This year is 15 years old. Python and PHP are my favorite programming languange.
+## About Me
+- My name is ```Indra Sah Noeldy```
+- Founder of ```Asterix Technology```
 
 <p align="center">
   <b>My Main Skills</b><br>
   <picture>
     <img 
       alt="main skills"
-      src="https://skillicons.dev/icons?i=python,php,flask,laravel,vue,react,tailwind,redis,sqlite,windows,debian,vscode,git&perline=4"
+      src="https://skillicons.dev/icons?i=python,golang,php,flask,laravel,astro,vue,react,tailwind,redis,mysql,sqlite,windows,debian,vscode,git,nginx,firebase&perline=4"
     />
   </picture>
 </p>
