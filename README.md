@@ -14,6 +14,9 @@
   </picture>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra87g&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent&show_icons=true&size_weight=0.5&count_weight=0.5)
+
 <p align="center">
   <b>Contribution Snake</b>
   <picture>
