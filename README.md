@@ -16,6 +16,7 @@ Indra Sah Noeldy
   </a>&nbsp;
   <a href="https://linkedin.com/in/indra-sah-noeldy-714bb92a2"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://x.com/indra87g"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"></a>&nbsp;
+  <a href="https://trakteer.id/nightw5050" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
 
 <p align="center">
@@ -24,7 +25,7 @@ Indra Sah Noeldy
   <a href="https://user-badge.committers.top/indonesia/indra87g"><img src="https://user-badge.committers.top/indonesia/indra87g.svg" alt="committers.top badge"></a>
 </p>
 
-<h3 align=center>Full Stuck Developer | Windows Enthusiast | Minecraft Player/Modder</h3>
+<h3 align=center>Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
 
 ### About Me 👨🏻
 - My full name is ```Indra Sah Noeldy Girsang```
@@ -37,17 +38,50 @@ Indra Sah Noeldy
   - 🇮🇩 Batak (noob)
   - 🇬🇧 English (noob)
 
-### Skillset
+### Skillset 😎
 
-Coming soon :)
+#### Frontend
 
-### Statistics
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,vue,tailwind,bootstrap)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra87g&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+#### Backend
+
+[![My Backend Skills](https://skillicons.dev/icons?i=python,go,nodejs,bun,flask,fiber)](https://skillicons.dev)
+
+#### Full Stuck
+
+[![My Full Stack Skills](https://skillicons.dev/icons?i=laravel,js,ts,astro)](https://skillicons.dev)
+
+#### Database
+
+[![My Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis)](https://skillicons.dev)
+
+#### DevOps
+
+[![My Devops Skills](https://skillicons.dev/icons?i=githubactions,cloudflare,nginx,windows,linux)](https://skillicons.dev)
+
+### Equipment 🧰
+
+- `Laptop` - Asus E204YA (Potato👍)
+  - `CPU` - AMD E2-7015
+  - `GPU` - AMD Radeon R2 (Stoney Ridge)
+  - `RAM` - 4 GB :(
+  - `Operating System #1` - Windows
+    - `Version` - 10 (1909) 
+    - `WM` - Explorer
+  - `Operating System #2` - Android x86
+    - `Distro` - BlissOS 14
+    - `Kernel` - 6.1.84
+- `Text Editor` - VSCode, Neovim, Jupyter Notebook
+- `Browser` - Chrome, Brave
+- `Terminal` - Oh My Posh (CMD, Powershell 7)
+
+### Stats 📓
+
+[![indra87g's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra87g&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent&show_icons=true&size_weight=0.5&count_weight=0.5)
 
 <p align="center">
-  <b>Contribution Snake</b>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
