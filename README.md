@@ -2,6 +2,8 @@
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
 
+[![An image of @indra87g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indra87g)](https://holopin.io/@indra87g)
+
 
 <h1 align="center">
 Indra Sah Noeldy
