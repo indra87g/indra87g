@@ -23,8 +23,8 @@ Indra Sah Noeldy
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/indra87g?label=followers&style=social"/></a>
-  <a href="https://peerlist.io/indra87g"><img src="https://github-readme-badge.peerlist.io/api/indra87g" alt="Peerlist"></a>
+  <a href="https://github.com/indra87g"><img src="https://img.shields.io/github/followers/indra87g?label=followers&style=social"/></a>
+  <a href="https://peerlist.io/indra87g"><img src="https://github-readme-badge.peerlist.io/api/indra87g" alt="Peerlist"/></a>
 </p>
 
 <h3 align=center>Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
