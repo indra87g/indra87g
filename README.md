@@ -17,7 +17,7 @@ Indra Sah Noeldy
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_social_red_circle_%282017%29.svg" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/indra-sah-noeldy-714bb92a2"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
-  <a href="https://x.com/indra87g"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"></a>&nbsp;
+  <a href="https://indra87g.bsky.social"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/300px-Bluesky_Logo.svg.png"></a>&nbsp;
   <a href="https://trakteer.id/nightw5050" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 </p>
 
@@ -29,7 +29,7 @@ Indra Sah Noeldy
 
 <h3 align=center>Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
 
-### About Me 👨🏻
+### About Me 👨‍🦱
 - My full name is ```Indra Sah Noeldy Girsang```
 - Live in ```Dairi, North Sumatera, Indonesia```
 - Born in ```Sidikalang, May 7th 2009```
