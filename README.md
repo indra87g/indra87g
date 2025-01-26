@@ -4,7 +4,6 @@
 
 [![An image of @indra87g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indra87g)](https://holopin.io/@indra87g)
 
-
 <h1 align="center">
 Indra Sah Noeldy
 </h1>
@@ -44,23 +43,55 @@ Indra Sah Noeldy
 
 #### Frontend
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,vue,tailwind,bootstrap)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS-grey?style=for-the-badge&logo=css"/>
+  <img src="https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=vite"/>
+  <img src="https://img.shields.io/badge/-Astro-grey?style=for-the-badge&logo=astro"/>
+  <img src="https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Bulma-grey?style=for-the-badge&logo=bulma"/>
+</p>
 
 #### Backend
 
-[![My Backend Skills](https://skillicons.dev/icons?i=python,go,nodejs,bun,flask,fiber)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/-Go-grey?style=for-the-badge&logo=go"/>
+  <img src="https://img.shields.io/badge/-NodeJS-grey?style=for-the-badge&logo=turtle"/>
+  <img src="https://img.shields.io/badge/-Bun-grey?style=for-the-badge&logo=bun"/>
+  <img src="https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/-Hono-grey?style=for-the-badge&logo=hono"/>
+</p>
 
 #### Full Stuck
 
-[![My Full Stack Skills](https://skillicons.dev/icons?i=laravel,js,ts,astro)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-Next-grey?style=for-the-badge&logo=nextjs"/>
+  <img src="https://img.shields.io/badge/-Laravel-grey?style=for-the-badge&logo=laravel"/>
+</p>
 
 #### Database
 
-[![My Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-SQLite-grey?style=for-the-badge&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/-Redis-grey?style=for-the-badge&logo=redis"/>
+  <img src="https://img.shields.io/badge/-Pocketbase-grey?style=for-the-badge&logo=pocketbase"/>
+</p>
 
 #### DevOps
 
-[![My Devops Skills](https://skillicons.dev/icons?i=githubactions,cloudflare,nginx,windows,linux)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/-Caddy-grey?style=for-the-badge&logo=caddy"/>
+  <img src="https://img.shields.io/badge/-Vagrant-grey?style=for-the-badge&logo=vagrant"/>
+  <img src="https://img.shields.io/badge/-Cloudflare Workers-grey?style=for-the-badge&logo=cloudflare"/>
+</p>
 
 ### Equipment 🧰
 
@@ -74,14 +105,23 @@ Indra Sah Noeldy
   - `Operating System #2` - Android x86
     - `Distro` - BlissOS 14
     - `Kernel` - 6.1.84
-- `Text Editor` - VSCode, Neovim, Jupyter Notebook
-- `Browser` - Chrome, Brave
-- `Terminal` - Oh My Posh (CMD, Powershell 7)
+  - `Text Editor` - VSCode, Neovim, Jupyter Notebook
+  - `Browser` - Chrome, Brave
+  - `Terminal` - Clink + Oh My Posh (CMD, Powershell 7)
 
 ### Stats 📓
 
-[![indra87g's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra87g&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent&show_icons=true&size_weight=0.5&count_weight=0.5)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=indra87g&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/indra87g?pet-id=671251643465219592"
+    width="600"
+    height="120"
+  />
+</a>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=indra87g&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
+</p>
 
 <p align="center">
   <picture>
