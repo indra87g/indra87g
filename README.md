@@ -5,11 +5,15 @@
 [![An image of @indra87g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indra87g)](https://holopin.io/@indra87g)
 
 <h1 align="center">
-Indra Sah Noeldy
+  Hi there! 👋 I'm Indra Sah Noeldy
 </h1>
 
-<p align=center>
-<a href="https://facebook.com/indra87g">
+<p align="center">
+  <i>A passionate developer who loves exploring new technologies and building cool stuff.</i>
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/indra87g">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
   </a>&nbsp;
   <a href="https://youtube.com/indra87g">
@@ -26,7 +30,7 @@ Indra Sah Noeldy
   <a href="https://peerlist.io/indra87g"><img src="https://github-readme-badge.peerlist.io/api/indra87g" alt="Peerlist"/></a>
 </p>
 
-<h3 align=center>Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
+<h3 align="center">Full Stack Developer | Windows Enthusiast | Gamer/Modder</h3>
 
 ### About Me 👨‍🦱
 - My full name is ```Indra Sah Noeldy Girsang```
@@ -39,84 +43,59 @@ Indra Sah Noeldy
   - 🇮🇩 Batak (noob)
   - 🇬🇧 English (noob)
 
-### Skillset 😎
+### 🚀 Tech Stack  
 
-#### Frontend
+**💻 Frontend:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-<p>
-  <img src="https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS-grey?style=for-the-badge&logo=css"/>
-  <img src="https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/-Astro-grey?style=for-the-badge&logo=astro"/>
-  <img src="https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=bootstrap"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/-Bulma-grey?style=for-the-badge&logo=bulma"/>
-</p>
+**🛠️ Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Hono](https://img.shields.io/badge/Hono-FF3A35?style=for-the-badge&logo=hono&logoColor=white)  
 
-#### Backend
+**📦 Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/-Go-grey?style=for-the-badge&logo=go"/>
-  <img src="https://img.shields.io/badge/-NodeJS-grey?style=for-the-badge&logo=turtle"/>
-  <img src="https://img.shields.io/badge/-Bun-grey?style=for-the-badge&logo=bun"/>
-  <img src="https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/-Hono-grey?style=for-the-badge&logo=hono"/>
-</p>
+**💻 DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Caddy](https://img.shields.io/badge/Caddy-2E3A2E?style=for-the-badge&logo=caddy&logoColor=white)  
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
 
-#### Full Stuck
-
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/-Next-grey?style=for-the-badge&logo=nextjs"/>
-  <img src="https://img.shields.io/badge/-Laravel-grey?style=for-the-badge&logo=laravel"/>
-</p>
-
-#### Database
-
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-SQLite-grey?style=for-the-badge&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/-Redis-grey?style=for-the-badge&logo=redis"/>
-  <img src="https://img.shields.io/badge/-Pocketbase-grey?style=for-the-badge&logo=pocketbase"/>
-</p>
-
-#### DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/-Git-grey?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/-Caddy-grey?style=for-the-badge&logo=caddy"/>
-  <img src="https://img.shields.io/badge/-Vagrant-grey?style=for-the-badge&logo=vagrant"/>
-  <img src="https://img.shields.io/badge/-Cloudflare Workers-grey?style=for-the-badge&logo=cloudflare"/>
-</p>
-
-### Equipment 🧰
-
+### 🧰 Equipment  
 - `Laptop` - Asus E204YA (Potato👍)
   - `CPU` - AMD E2-7015
   - `GPU` - AMD Radeon R2 (Stoney Ridge)
   - `RAM` - 4 GB :(
-  - `Operating System #1` - Windows
-    - `Version` - 10 (1909) 
-    - `WM` - Explorer
-  - `Operating System #2` - Android x86
-    - `Distro` - BlissOS 14
-    - `Kernel` - 6.1.84
-  - `Text Editor` - VSCode, Neovim, Jupyter Notebook
-  - `Browser` - Chrome, Brave
-  - `Terminal` - Clink + Oh My Posh (CMD, Powershell 7)
+  - `Operating System #1` - Windows 10 (1909)  
+  - `Operating System #2` - Android x86 BlissOS 14
+  - `Text Editor` - VSCode, Neovim, Jupyter Notebook  
+  - `Browser` - Chrome, Brave  
+  - `Terminal` - Clink + Oh My Posh (CMD, Powershell 7)  
 
-### Stats 📓
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indra87g&show_icons=true&theme=radical" alt="Indra's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indra87g&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+### 🚀 Featured Projects  
+- [🔗 Project 1](https://github.com/indra87g/project-1) - Deskripsi singkat tentang proyek ini.
+- [🔗 Project 2](https://github.com/indra87g/project-2) - Deskripsi singkat lainnya.  
+💡 _Check out my repositories for more cool projects!_ 🚀
+
+### 📓 Stats 📖  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=indra87g&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/indra87g?pet-id=671251643465219592"
-    width="600"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/indra87g?pet-id=671251643465219592" width="600" height="120" />
 </a>
 
 <p align="center">
@@ -125,18 +104,9 @@ Indra Sah Noeldy
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
