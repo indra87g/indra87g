@@ -27,10 +27,11 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g" />
   <a href="https://github.com/indra87g"><img src="https://img.shields.io/github/followers/indra87g?label=followers&style=social"/></a>
-  <a href="https://peerlist.io/indra87g"><img src="https://github-readme-badge.peerlist.io/api/indra87g" alt="Peerlist"/></a>
+  <a href="https://peerlist.io/indra87g"><img src="https://github-readme-badge.peerlist.io/api/indra87g" alt="Peerlist"/></a><br>
+  <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
-<h3 align="center">Full Stack Developer | Windows Enthusiast | Gamer/Modder</h3>
+<h3 align="center">Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
 
 ### About Me 👨‍🦱
 - My full name is ```Indra Sah Noeldy Girsang```
@@ -75,11 +76,12 @@
   - `RAM` - 4 GB :(
   - `Operating System #1` - Windows 10 (1909)  
   - `Operating System #2` - Android x86 BlissOS 14
-  - `Text Editor` - VSCode, Neovim, Jupyter Notebook  
+  - `Text Editor` - VSCodium
   - `Browser` - Chrome, Brave  
-  - `Terminal` - Clink + Oh My Posh (CMD, Powershell 7)  
+  - `Terminal` - Clink + Oh My Posh  
 
-### 📊 GitHub Stats  
+### 📊 Stats
+#### Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=indra87g&show_icons=true&theme=radical" alt="Indra's GitHub Stats" />
 </p>
@@ -88,12 +90,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indra87g&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-### 🚀 Featured Projects  
-- [🔗 Project 1](https://github.com/indra87g/project-1) - Deskripsi singkat tentang proyek ini.
-- [🔗 Project 2](https://github.com/indra87g/project-2) - Deskripsi singkat lainnya.  
-💡 _Check out my repositories for more cool projects!_ 🚀
-
-### 📓 Stats 📖  
+#### Others 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=indra87g&utm_content=line">
   <img src="https://render.gitanimals.org/lines/indra87g?pet-id=671251643465219592" width="600" height="120" />
 </a>
@@ -102,12 +99,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=indra87g&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
+#### Metrics
 ![Metrics](github-metrics.svg)
