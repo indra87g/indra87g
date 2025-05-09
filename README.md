@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <i>A passionate developer who loves exploring new technologies and building cool stuff.</i>
+  <i>A full stuck developer who loves exploring new technologies and building useless stuff.</i>
 </p>
 
 <p align="center">
@@ -21,13 +21,12 @@
   </a>&nbsp;
   <a href="https://linkedin.com/in/indra-sah-noeldy-714bb92a2"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>&nbsp;
   <a href="https://indra87g.bsky.social"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/300px-Bluesky_Logo.svg.png"></a>&nbsp;
-  <a href="https://trakteer.id/nightw5050" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+  <a href="https://trakteer.id/indra87g" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Support Me"></a>
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g" />
-  <a href="https://github.com/indra87g"><img src="https://img.shields.io/github/followers/indra87g?label=followers&style=social"/></a>
-  <a href="https://peerlist.io/indra87g"><img src="https://github-readme-badge.peerlist.io/api/indra87g" alt="Peerlist"/></a><br>
+  <a href="https://github.com/indra87g"><img src="https://img.shields.io/github/followers/indra87g?label=followers&style=social"/></a><br>
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
@@ -70,13 +69,12 @@
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
 
 ### 🧰 Equipment  
-- `Laptop` - Asus E204YA (Potato👍)
+- `Laptop` - Asus E204YA
   - `CPU` - AMD E2-7015
   - `GPU` - AMD Radeon R2 (Stoney Ridge)
-  - `RAM` - 4 GB :(
-  - `Operating System #1` - Windows 10 (1909)  
-  - `Operating System #2` - Android x86 BlissOS 14
-  - `Text Editor` - VSCodium
+  - `RAM` - 4 GB
+  - `Operating System #1` - Windows 10
+  - `Text Editor` - VSCodium, Notepad++
   - `Browser` - Chrome, Brave  
   - `Terminal` - Clink + Oh My Posh  
 
