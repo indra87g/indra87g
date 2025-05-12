@@ -8,9 +8,7 @@
   Hi there! 👋 I'm Indra Sah Noeldy
 </h1>
 
-<p align="center">
-  <i>A full stuck developer who loves exploring new technologies and building useless stuff.</i>
-</p>
+<h3 align="center">Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
 
 <p align="center">
   <a href="https://facebook.com/indra87g">
@@ -25,23 +23,16 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g" />
-  <a href="https://github.com/indra87g"><img src="https://img.shields.io/github/followers/indra87g?label=followers&style=social"/></a><br>
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
-<h3 align="center">Full Stuck Developer | Windows Enthusiast | Gamer/Modder</h3>
-
-### About Me 👨‍🦱
-- My full name is ```Indra Sah Noeldy Girsang```
-- Live in ```Dairi, North Sumatera, Indonesia```
-- Born in ```Sidikalang, May 7th 2009```
-- ```16``` years old
-- Currently, my favourite tech stack is ```Python``` and ```Golang```
-- Languages:
-  - 🇮🇩 Indonesia
-  - 🇮🇩 Batak (noob)
-  - 🇬🇧 English (noob)
+### About Me 😎
+- I'm a full stuck developer from Indonesia🙏
+- I write articles on [my personal website](https://indra87g.is-a.dev)✨
+- I code in: **Python**, **Javascript**, **Golang**, **PHP**😴
+- Talk to me about Tokusatsu, Programming, IT, and Gaming👍
+- We can connect to play Minecraft🎮
+- Fun fact: nothing special
 
 ### 🚀 Tech Stack  
 
@@ -78,8 +69,7 @@
   - `Browser` - Chrome, Brave  
   - `Terminal` - Clink + Oh My Posh  
 
-### 📊 Stats
-#### Github
+### 📊 My Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=indra87g&show_icons=true&theme=radical" alt="Indra's GitHub Stats" />
 </p>
@@ -88,7 +78,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indra87g&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
-#### Others 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=indra87g&utm_content=line">
   <img src="https://render.gitanimals.org/lines/indra87g?pet-id=671251643465219592" width="600" height="120" />
 </a>
@@ -97,5 +86,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=indra87g&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
-#### Metrics
 ![Metrics](github-metrics.svg)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g)
