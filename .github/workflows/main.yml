@@ -1,9 +1,6 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -16,8 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-
-          # Options
+          
           user: indra87g
           template: classic
           base: header, activity, community, repositories, metadata
@@ -25,9 +21,7 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Jakarta
           config_twemoji: yes
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
+          plugin_achievements: no
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
