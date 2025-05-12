@@ -15,12 +15,14 @@ jobs:
     - name: Use Node.js
       uses: actions/setup-node@v1
       with:
-        node-version: '14.x'
+        node-version: '18'
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
           git commit -am "docs: update README.md"
+          git pull --rebase
           git push
