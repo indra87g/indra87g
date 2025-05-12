@@ -16,8 +16,6 @@ function generateProgressBar() {
     return `${progressBar}`
 }
 
-console.log(`Year Progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}`)
-
 const readme = `\
 <a href='https://github.com/Safouene1/support-palestine-banner'>
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
@@ -47,7 +45,7 @@ const readme = `\
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
-⏳**Year Progress:** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}
+⏳**Year Progress:** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+' '+ monthNames[new Date().getMonth()]+' '+new Date().getFullYear()}
 
 ### About Me 😎
 - I'm a full stuck developer from Indonesia🙏
