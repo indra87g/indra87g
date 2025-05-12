@@ -1,4 +1,3 @@
-Year Progress ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 35.95 % as on ⏰ 11-May-2025
 <a href='https://github.com/Safouene1/support-palestine-banner'>
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
@@ -27,7 +26,7 @@ Year Progress ██████████▁▁▁▁▁▁▁▁▁▁▁▁
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
-⏳**Year Progress:** ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 35.95 % as on ⏰ 11-May-2025
+⏳**Year Progress:** ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 35.95 % as on ⏰ 11 May 2025
 
 ### About Me 😎
 - I'm a full stuck developer from Indonesia🙏
