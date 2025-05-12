@@ -9,6 +9,10 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
 
     steps:
     - uses: actions/checkout@v2
@@ -23,6 +27,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+          git add README.md
           git commit -am "docs: update README.md"
           git pull --rebase
           git push
