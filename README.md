@@ -1,3 +1,4 @@
+Year Progress ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 35.95 % as on ⏰ 11-May-2025
 <a href='https://github.com/Safouene1/support-palestine-banner'>
   <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
 </a>
@@ -25,6 +26,8 @@
 <p align="center">
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
+
+⏳**Year Progress:** ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 35.95 % as on ⏰ 11-May-2025
 
 ### About Me 😎
 - I'm a full stuck developer from Indonesia🙏
@@ -60,14 +63,14 @@
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
 
 ### 🧰 Equipment  
-- `Laptop` - Asus E204YA
-  - `CPU` - AMD E2-7015
-  - `GPU` - AMD Radeon R2 (Stoney Ridge)
-  - `RAM` - 4 GB
-  - `Operating System #1` - Windows 10
-  - `Text Editor` - VSCodium, Notepad++
-  - `Browser` - Chrome, Brave  
-  - `Terminal` - Clink + Oh My Posh  
+- **Laptop** - Asus E204YA
+  - **CPU** - AMD E2-7015
+  - **GPU** - AMD Radeon R2 (Stoney Ridge)
+  - **RAM** - 4 GB
+  - **Operating System** - Windows 10
+  - **Text Editor** - VSCodium, Notepad++
+  - **Browser** - Chrome, Brave  
+  - **Terminal** - Clink + Oh My Posh  
 
 ### 📊 My Github Stats
 <p align="center">
@@ -89,3 +92,4 @@
 ![Metrics](github-metrics.svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g)
+
