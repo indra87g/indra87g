@@ -11,7 +11,7 @@ function generateProgressBar() {
     const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
     const progressBar = Array(progressBarCapacity)
         .fill('▁')
-        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .map((value, index) => index < passedProgressBarIndex ? '●' : value)
         .join('')
     return `${progressBar}`
 }
@@ -50,7 +50,7 @@ const readme = `\
 ### About Me 😎
 - I'm a full stuck developer from Indonesia🙏
 - I write articles on [my personal website](https://indra87g.is-a.dev)✨
-- I code in: **Python**, **Javascript**, **Golang**, **PHP**😴
+- I code in: **Python**, **Javascript**, **Java**😴
 - Talk to me about Tokusatsu, Programming, IT, and Gaming👍
 - We can connect to play Minecraft🎮
 - Fun fact: nothing special
