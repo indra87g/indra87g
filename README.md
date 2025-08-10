@@ -26,12 +26,12 @@
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
-⏳**Year Progress:** ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ 60.29 % as on ⏰ 8 Aug 2025
+⏳**Year Progress:** ●●●●●●●●●●●●●●●●●●▁▁▁▁▁▁▁▁▁▁▁▁ 60.57 % as on ⏰ 9 Aug 2025
 
 ### About Me 😎
 - I'm a full stuck developer from Indonesia🙏
 - I write articles on [my personal website](https://indra87g.is-a.dev)✨
-- I code in: **Python**, **Javascript**, **Golang**, **PHP**😴
+- I code in: **Python**, **Javascript**, **Java**😴
 - Talk to me about Tokusatsu, Programming, IT, and Gaming👍
 - We can connect to play Minecraft🎮
 - Fun fact: nothing special
