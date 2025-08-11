@@ -26,7 +26,7 @@
   <img src="https://www.codewars.com/users/indra87g/badges/large" />
 </p>
 
-⏳**Year Progress:** ●●●●●●●●●●●●●●●●●●▁▁▁▁▁▁▁▁▁▁▁▁ 60.57 % as on ⏰ 9 Aug 2025
+⏳**Year Progress:** ●●●●●●●●●●●●●●●●●●▁▁▁▁▁▁▁▁▁▁▁▁ 60.84 % as on ⏰ 10 Aug 2025
 
 ### About Me 😎
 - I'm a full stuck developer from Indonesia🙏
