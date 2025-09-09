@@ -98,10 +98,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/indra87g/indra87g/snake_output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=indra87g&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
