@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hi there! 👋 I'm Indra Sah Noeldy</h1>
-  <h3>Full Stack Developer | Windows Enthusiast | Gamer/Modder</h3>
+  <h4>Full Stack Developer | Termux Enthusiast | Gamer/Modder</h4>
 </div>
 
 ### About Me 😎
@@ -14,7 +14,7 @@
 - I write articles on [my personal website](https://indra87g.is-a.dev)✨
 - I code in: **Python**, **Javascript**, **Java**😴
 - Talk to me about Tokusatsu, Programming, IT, and Gaming👍
-- We can connect to play Minecraft🎮
+- We can connect to play Minecraft🎮 (gt: TwinightWheel50)
 - Fun fact: nothing special
 
 <details>
@@ -53,6 +53,7 @@
 <summary>🧰 Equipment</summary>
 <br>
 My laptop is broken, bruh
+  
 - **Smartphone** - Samsung A10
   - **RAM** - 3 GB
   - **Operating System** - Android 11
