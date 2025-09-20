@@ -52,15 +52,13 @@
 <details>
 <summary>🧰 Equipment</summary>
 <br>
-
-- **Laptop** - Asus E204YA
-  - **CPU** - AMD E2-7015
-  - **GPU** - AMD Radeon R2 (Stoney Ridge)
-  - **RAM** - 4 GB
-  - **Operating System** - Windows 10
-  - **Text Editor** - VSCodium, Notepad++
-  - **Browser** - Chrome, Brave  
-  - **Terminal** - Clink + Oh My Posh  
+My laptop is broken, bruh
+- **Smartphone** - Samsung A10
+  - **RAM** - 3 GB
+  - **Operating System** - Android 11
+  - **Text Editor** - Acode, Micro
+  - **Browser** - Chrome
+  - **Terminal** - Termux (just using bash for shell)
 <br>
 </details>
 
@@ -86,19 +84,10 @@
 
 ---
 
-### 📊 My Github Stats
+### 📊 Statistics
 
 <p align="center">
   <img src="https://www.codewars.com/users/indra87g/badges/large" alt="Codewars Badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indra87g&show_icons=true&theme=radical" alt="Indra's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indra87g&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indra87g&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -106,5 +95,4 @@
 </p>
 
 ![Metrics](github-metrics.svg)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g)
