@@ -1,7 +1,0 @@
-Username: indra87g
-Name: Indra Sah Noeldy
-Bio: Learner and programmer from Indonesia. This year is 15 years old. Python and PHP are my favorite programming languange. 
-Location: Indonesia
-Followers: 21
-Following: 143
-Public Repos: 68\nStargazers: 18
