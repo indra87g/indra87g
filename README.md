@@ -5,7 +5,7 @@
 [![An image of @indra87g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indra87g)](https://holopin.io/@indra87g)
 
 <div align="center">
-  <h1>Hi there! 👋 I'm Indra Sah Noeldy</h1>
+  <h1>Hi there! 👋 <br>I'm Indra Sah Noeldy</h1>
   <h4>Full Stack Developer | Termux Enthusiast | Gamer/Modder</h4>
 </div>
 
@@ -88,12 +88,23 @@ My laptop is broken, bruh
 ### 📊 Statistics
 
 <p align="center">
+  <b>Wakatime</b>
+  <img src="https://wakatime.com/share/@e3628b6b-08c8-497a-a679-c268fa16d35e/591ccfe4-e32e-4a4e-bb4f-dada759fe778.svg" alt="WakaTime coding activity" />
+</p>
+
+<p align="center">
+  <b>Codewars</b>
   <img src="https://www.codewars.com/users/indra87g/badges/large" alt="Codewars Badge"/>
 </p>
 
 <p align="center">
+  <b>Git Animals</b>
   <img src="https://render.gitanimals.org/lines/indra87g?pet-id=671251643465219592" width="600" height="120" />
 </p>
 
-![Metrics](github-metrics.svg)
+<p align="center">
+  <b>Github Metrìcs</b>
+  <img src="github-metrics.svg" />
+</p>
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g)
