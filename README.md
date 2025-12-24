@@ -1,13 +1,10 @@
 <a href='https://github.com/Safouene1/support-palestine-banner'>
-  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' width='100%' />
+  <img src='https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg' alt='Support Palestine' />
 </a>
+<img src='https://holopin.me/indra87g' alt='An image of @indra87g Holopin badges, which is a link to view their full Holopin profile' />
 
-[![An image of @indra87g's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indra87g)](https://holopin.io/@indra87g)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;My+name+is+Indra)](https://git.io/typing-svg)
 
-<div align="center">
-  <h1>Hi there! 👋 <br>I'm Indra Sah Noeldy</h1>
-  <h4>Full Stack Developer | Termux Enthusiast | Gamer/Modder</h4>
-</div>
 
 ### About Me 😎
 - I'm a full stack developer from Indonesia🙏
@@ -63,7 +60,7 @@ My laptop is broken, bruh
 <br>
 </details>
 
-## 📞 Contact
+### 📞 Contact
 
 <p align="center">
   <a href="https://facebook.com/indra87g">
@@ -83,7 +80,9 @@ My laptop is broken, bruh
   </a>
 </p>
 
----
+### 👀 Featured Projects
+
+:D
 
 ### 📊 Statistics
 
@@ -108,3 +107,5 @@ My laptop is broken, bruh
 </p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=indra87g.indra87g)
+
+![](https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)
